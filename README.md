@@ -13,4 +13,12 @@ waybar
 
 nvim 
 
+gthumb
+
+xreader
+
 flatpak
+
+brave
+
+spotify
