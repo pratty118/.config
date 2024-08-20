@@ -3,6 +3,9 @@
 
 nemo/thunar
 
+Pywal
+
+
 Gammastep
 
 wofi
