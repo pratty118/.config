@@ -5,6 +5,7 @@ nemo/thunar
 
 Pywal
 
+rofi-wayland
 
 Gammastep
 
